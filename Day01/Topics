@@ -1,5 +1,8 @@
+------------------------------------------------------------------
 1. What is PHP? -> Hypertext Preprocessor
 2. Envirnment setup -> (PHP,Server,Database)]> XAMPP,VScode
 3. Variables
 4. Data Types
 5. Control Structures -> if,else-if,else + switch-case
+------------------------------------------------------------------
+** var_dump($name);
