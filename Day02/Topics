@@ -1,1 +1,17 @@
+-------------------------------------------------------------------------------------
+1. Operators in PHP
+      ->> Arithmetic Operator [+ - * / % **]
+      ->> Assignment Operator [= += -= *= /= %=]
+      ->> Comparison Operator [==, <>, !=, >, <, >=, <=, ===, !==]
+      ->> Increment/Decremennt [++$a, $a++, --$a, $a--]
+      ->> Logical Operator  [&&, ||, !]
+      ->> String Operator [.  .= ] .concatenation**
+      ->> Array Oprator [+ ,==, .....] +union**
+      ->> Conditional Assignment [ ??, ?:] ternary operator**
 
+2. Write GPA calculator program using logical operator & if-else 
+3. Learn Switch Case
+4. Write GPA calculator program using Switch case
+5. Introduction to PHP Loops
+6. For Loop details
+--------------------------------------------------------------------------------------
