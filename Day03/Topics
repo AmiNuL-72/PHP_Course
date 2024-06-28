@@ -1,1 +1,15 @@
-
+---------------------------------------------------------------------------
+1. Discuss the solution of previous task
+2. Learn While & Do-While Loops
+3. Learn Array in PHP
+      -> Indexed Array ~ ["Aminul",72,["xyz",...],1.25]
+      -> Associate Array ~ ["Aminul"=>72,"Maria"=>05,...]
+      -> Multidimentional ~ [[..],[..],[..]]
+4. Lrean forEach Loop in PHP
+---------------------------------------------------------------------------
+    **print_r($arrName);                    $i = 1;
+                                            while ($i < 6):
+     foreach($arrName as $x){                 echo $i;
+         echo $x;                             $i++;
+      }                                      endwhile;
+---------------------------------------------------------------------------
