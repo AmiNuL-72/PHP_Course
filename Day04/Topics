@@ -1,1 +1,9 @@
-
+-------------------------------------------------------------
+1. FORM in PHP.
+2. Details of GET & POST method.
+3. Printing Data from FORM to inside that page.
+4. Sending data from one page to another page.
+-------------------------------------------------------------
+** <form action="xyz.php" method="POST">....<form>
+-> if( isset(_POST['$name']))... ->[active state]
+-> $name = _POST['$name'];   ->[get data + assign]
