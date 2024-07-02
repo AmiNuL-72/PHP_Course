@@ -1,0 +1,16 @@
+1. File/Image upload & display in PHP
+2. Introduction to phpMyAdmin
+3. Learn- insert, select, update, delete command in MySQL
+4. Basic of PHP OOP concept:
+    -> class, properties, method, object, constructor
+       Access Modifier: public, private, protected
+
+--------------------------------------------------------------
+** <form action="img_display.php" method="POST" enctype="multipart/form-data">
+** if(isset($_POST['submit'])){
+        //print_r($_FILES['img']);
+        $img_name = $_FILES['img']['name'];
+        $tmp_name = $_FILES['img']['tmp_name'];
+        move_uploaded_file($tmp_name,"upload/".$img_name);
+    }
+----------------------------------------------------------------------
