@@ -1,6 +1,13 @@
 #Create CRUD Application
-*Create a Dynamic PHP Project
+*Create a Dynamic PHP Project::
   -> CRUD : Create, Read, Update, Delete
 ------------------------------------------------------------
 *) create "database FORM" using Bootstrap template[index.php]
-*) 
+*) Create "Database" in phpMyAdmin
+*) Make DB connection ->[ index.php + function.php + Database ]
+*) Add data into "Database" from "Database FORM" .
+*) Display data in "Database FORM"
+*) Transfer data in [edit.php] + make edit & send upload data in Database +
+    show update info int "Database FORM"
+*) Delete student info from Database + unlink image
+---------------------------------------------------------------------
